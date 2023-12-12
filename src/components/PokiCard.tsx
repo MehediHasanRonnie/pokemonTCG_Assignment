@@ -57,7 +57,6 @@ const PokiCard = () => {
               <div className="flex gap-3">
                 <h2
                   className=" mt-2 font-semibold"
-                  //onClick={() => updateName({ setid: data.id, setName: "abc" })}
                 >
                   Name: {x.name}
                 </h2>
